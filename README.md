@@ -17,9 +17,8 @@ This is a very basic employee directory application that mainly implements the n
 
 ---
 
-## 🚀 Live Preview  
-> _If deployed to a platform like SCP or mock server, insert the live link here._  
-🌐 [Click to Explore the App](#)
+## 🚀 Project Structure 
+>
 
 ---
 
