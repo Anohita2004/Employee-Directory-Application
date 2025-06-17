@@ -71,9 +71,7 @@ EmployeeDirectoryApp/
 
 ## ✨ Screenshots
 
-> _(Add images here using Markdown syntax. Example below:)_
 
-```md
 ![Image](https://github.com/user-attachments/assets/ff36ee9b-d3d8-4403-8407-b45c8fa98038)
 ![Image](https://github.com/user-attachments/assets/427b7fde-64cd-411e-9c53-930e0bc55166)
 ![Image](https://github.com/user-attachments/assets/e7c8c256-1f35-4af4-8ac5-5a6db49f929e)
