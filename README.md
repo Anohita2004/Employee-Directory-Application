@@ -6,8 +6,13 @@ This is a very basic employee directory application that mainly implements the n
 ![UI5 Logo]()
 
 ---
+## Live Preview
+[Live Netlify Link](https://employeedirectoryapplication.netlify.app/)
 
-## 🔥 Why You'll Love This App
+## Snapshots of the App
+
+
+##  Why You'll Love This App
 
 - ✅ **Modern UI** with SAP Fiori Design Guidelines  
 - ✅ **Real-time Employee Search** & Auto-suggestions  
