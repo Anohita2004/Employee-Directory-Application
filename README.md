@@ -9,9 +9,6 @@ This is a very basic employee directory application that mainly implements the n
 ## Live Preview
 [Live Netlify Link](https://employeedirectoryapplication.netlify.app/)
 
-## Snapshots of the App
-
-
 ##  Why You'll Love This App
 
 - ✅ **Modern UI** with SAP Fiori Design Guidelines  
@@ -77,6 +74,8 @@ EmployeeDirectoryApp/
 > _(Add images here using Markdown syntax. Example below:)_
 
 ```md
-![Master View](screenshots/master-view.png)
-![Detail View](screenshots/detail-view.png)
+![Image](https://github.com/user-attachments/assets/ff36ee9b-d3d8-4403-8407-b45c8fa98038)
+![Image](https://github.com/user-attachments/assets/427b7fde-64cd-411e-9c53-930e0bc55166)
+![Image](https://github.com/user-attachments/assets/e7c8c256-1f35-4af4-8ac5-5a6db49f929e)
+![Image](https://github.com/user-attachments/assets/38eed01e-c049-439c-b396-2e16fa3ecd45)
 
